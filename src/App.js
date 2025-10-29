@@ -1,7 +1,13 @@
 import DragList from "./DragList";
+import GlobalStyles from "./GlobalStyles";
 
 function App() {
-  return <DragList />;
+  return (
+    <>
+      <GlobalStyles />
+      <DragList />
+    </>
+  );
 }
 
 export default App;
