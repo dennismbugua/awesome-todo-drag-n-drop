@@ -115,7 +115,7 @@ const GlobalStyles = createGlobalStyle`
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
       sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #ff6b35 0%, #f7931e 50%, #ff8c42 100%);
     color: var(--text-primary);
     line-height: 1.6;
     min-height: 100vh;
